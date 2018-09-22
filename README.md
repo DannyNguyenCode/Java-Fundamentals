@@ -5,8 +5,8 @@ These Java files will demonstrate working knowledge of Java which will include:
 ##### HelloWorld
 Printing Hello World! to the system
 
-###### userInput
+##### userInput
 Accepting input from user
 
-###### Calculator
+##### Calculator
 A simple calculator using Java
